@@ -1,0 +1,25 @@
+body{
+    margin-left: 200px;
+    margin-bottom: 100px;
+}
+
+h1 {
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;   
+}
+p{
+    font-size: 30px;
+}
+li{
+    font-size: 20px;
+}
+.img-logo{
+ width: 500px;
+ height: auto;
+}
+.img{
+    width: 900px;
+    height: auto;
+}
